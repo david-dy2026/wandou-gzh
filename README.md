@@ -1,4 +1,6 @@
-# Tutorial To WeChat
+# 豌豆公众号改写助手
+
+作者：豌豆（潘艺）
 
 把平铺直叙的教程、读书笔记、工具演示或 AI 工作流文档，改造成更适合公众号发布的文章。
 
@@ -15,11 +17,11 @@
 ## 使用示例
 
 ```text
-用 tutorial-to-wechat 帮我诊断这篇教程，告诉我怎么改得更适合公众号，不要直接改文档。
+用 wandou-tutorial-to-wechat 帮我诊断这篇教程，告诉我怎么改得更适合公众号，不要直接改文档。
 ```
 
 ```text
-用 tutorial-to-wechat 把这篇教程改成一篇公众号文章，保留原意，但增强开头、标题和阅读欲望。
+用 wandou-tutorial-to-wechat 把这篇教程改成一篇公众号文章，保留原意，但增强开头、标题和阅读欲望。
 ```
 
 ## 安装
@@ -27,7 +29,7 @@
 把本仓库克隆到本地 Skill 目录：
 
 ```bash
-git clone https://github.com/david-dy2026/tutorial-to-wechat.git ~/.codex/skills/tutorial-to-wechat
+git clone https://github.com/david-dy2026/wandou-tutorial-to-wechat.git ~/.codex/skills/wandou-tutorial-to-wechat
 ```
 
 也可以只复制 `SKILL.md` 和 `agents/openai.yaml` 到同名 Skill 文件夹。

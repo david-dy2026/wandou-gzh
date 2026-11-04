@@ -1,3 +1,4 @@
-display_name: Tutorial To WeChat
-short_description: Make plain tutorials into compelling公众号 articles.
-default_prompt: Turn this plain tutorial draft into a more compelling WeChat Official Account article while preserving the original substance.
+interface:
+  display_name: "豌豆公众号改写助手"
+  short_description: "把教程、笔记和工具演示改写成保留原意、适合公众号阅读的文章"
+  default_prompt: "使用 $wandou-tutorial-to-wechat，帮我把这篇教程改写成适合公众号发布的文章，保留原意和真实信息。"
