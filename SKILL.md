@@ -1,9 +1,9 @@
 ---
-name: wandou-tutorial-to-wechat
+name: wandou-gzh
 description: Turn a plain tutorial, how-to note, reading note, or tool walkthrough into a more compelling WeChat Official Account article. Use when the user wants to diagnose, reframe, outline, title, or rewrite an existing draft for公众号/长图文 publishing without losing the original substance.
 ---
 
-# 豌豆公众号改写助手
+# 豌豆公众号改写
 
 Use this skill when the user has an existing tutorial-like draft and wants it to become more attractive for WeChat Official Account or similar long-form Chinese content platforms.
 
